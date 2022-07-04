@@ -39,7 +39,7 @@ with open(jfile, "w") as f:
     json.dump(repos, f)
     print(f"Данные запроса успешно записаны в {jfile}")
 
-print("\nДЗ 1.2")
+print("\nДЗ 1.2\n")
 print("Следующий сайт был выбран через поиск на сайте\
 https://www.programmableweb.com/category/all/apis,\
 затем по ссылке на https://api.nasa.gov/, здесь была нужна регистрация,\
